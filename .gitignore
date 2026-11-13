@@ -1,0 +1,35 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+.env
+*.apk
+*.aab
+
+# Mac temporary files
+.DS_Store
+
+# Android build files
+.gradle/
+**/build/
+local.properties
+
+# Signing credentials
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+
+# Temporary and crash logs
+*.idsig
+hs_err_pid*.log
+replay_pid*.log
+
+# Environment secrets
+.env
+.env.*

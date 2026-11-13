@@ -1,0 +1,50 @@
+{
+  "packageId": "io.github.nahom1927.twa",
+  "host": "nahom1927.github.io",
+  "name": "MizanBiz",
+  "launcherName": "MizanBiz",
+  "display": "standalone",
+  "themeColor": "#0A8575",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#F2F7F6",
+  "enableNotifications": true,
+  "startUrl": "/mizanbiz-n/",
+  "iconUrl": "https://nahom1927.github.io/mizanbiz-n/icons/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/nahomzewge/mizanbiz-android/android.keystore",
+    "alias": "MizanBiz"
+  },
+  "appVersionName": "9",
+  "appVersionCode": 9,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://nahom1927.github.io/mizanbiz-n/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://nahom1927.github.io/mizanbiz-n/",
+  "minSdkVersion": 24,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "9"
+}
